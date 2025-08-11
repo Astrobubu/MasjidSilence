@@ -5,7 +5,7 @@
 **Respectful silence, automatically.**
 
 MosqueSilence auto‑silences your phone when you’re inside a mosque and restores normal sound when you leave. It runs quietly in the background using a curated mosque catalog plus your own saved locations.
-
+ ![Banner](screenshots/banner.png) 
 ---
 
 ## Screenshots
@@ -59,4 +59,5 @@ Issues and PRs are welcome. Please describe the change and test on at least one 
 ## License
 
 MIT
+
 
